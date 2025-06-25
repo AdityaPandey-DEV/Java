@@ -128,3 +128,8 @@ This repository contains solutions to Java programming assignments covering vari
 *Question:* Design a JavaFX-based movie ticket booking system where users can select a movie, choose a showtime, and specify the number of tickets they wish to purchase.
 
 *Solution:* [MovieTicketBookingSystem.java](https://github.com/aditya2006p/java/blob/main/MovieTicketBookingSystem.java)
+
+### 26. URL
+*Question:* url Checker .
+
+*Solution:* [MovieTicketBookingSystem.java](https://github.com/aditya2006p/java/blob/main/url.java)

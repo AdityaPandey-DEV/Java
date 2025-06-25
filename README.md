@@ -132,4 +132,4 @@ This repository contains solutions to Java programming assignments covering vari
 ### 26. URL
 *Question:* url Checker .
 
-*Solution:* [MovieTicketBookingSystem.java](https://github.com/aditya2006p/java/blob/main/url.java)
+*Solution:* [URL.java](https://github.com/aditya2006p/java/blob/main/url.java)
